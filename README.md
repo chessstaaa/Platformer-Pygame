@@ -14,6 +14,7 @@ Bertahan hidup dan menyelesaikan level dengan melewati semua rintangan. Kecepata
 ### 🖼️ Screenshot
 
 ![Gameplay Screenshot](assets/Screenshots/SS1.png)
+![Gameplay Screenshot2](assets/Screenshots/SS2.png)
 
 ---
 
