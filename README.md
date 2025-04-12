@@ -1,24 +1,24 @@
 # 🎮 Simple 2D Mario-like Game
 
-Sebuah game platformer 2D sederhana yang terinspirasi dari seri klasik Mario, dikembangkan menggunakan bahasa Python dengan bantuan library **Pygame**.
+A simple 2D platformer game inspired by the classic Mario series, developed using Python and the Pygame library.
 
-Dalam game ini, pemain mengendalikan sebuah karakter yang harus berlari, melompat, dan melewati berbagai rintangan dalam sebuah level side-scrolling. Tujuan utama dari permainan ini adalah mencapai akhir level dengan selamat sambil menghindari jebakan, musuh, dan jurang.
-
----
-
-### 🎯 Tujuan Permainan
-Bertahan hidup dan menyelesaikan level dengan melewati semua rintangan. Kecepatan, ketepatan, dan refleks yang baik akan sangat menentukan keberhasilan pemain.
+In this game, the player controls a character that must run, jump, and navigate through various obstacles across a scrolling level. The goal is to reach the end of the stage while avoiding traps, enemies, and falling off the map.
 
 ---
 
-### 🖼️ Screenshot
+### 🎯 Objective
+Survive the course by overcoming all obstacles and reach the final point. Precision, timing, and fast reflexes are key to success.
+
+---
+
+### 🖼️ Screenshots
 
 ![Gameplay Screenshot](assets/Screenshots/SS1.png)
 ![Gameplay Screenshot2](assets/Screenshots/SS2.png)
 
 ---
 
-### 👥 Credit
+### 👥 Credits
 - Darrell Chesta Adabi  
 - Muhammad Dhafin Basil
 - Muhammad Isa Arseinche
