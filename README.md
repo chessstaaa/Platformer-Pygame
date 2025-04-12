@@ -11,6 +11,12 @@ Bertahan hidup dan menyelesaikan level dengan melewati semua rintangan. Kecepata
 
 ---
 
+### 🖼️ Screenshot
+
+![Gameplay Screenshot](assets/Screenshots/SS1.png)
+
+---
+
 ### 👥 Credit
 - Darrell Chesta Adabi  
 - Muhammad Dhafin Basil
